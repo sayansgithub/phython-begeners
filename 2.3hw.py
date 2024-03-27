@@ -1,0 +1,5 @@
+print('Brackets → Exponents → Division/ Multiplication→ Addition /Subtraction')
+print( 10 * 3 - 2)
+print( 15 + 10 / 2 - 1)
+print( (3 * 3) - (2 * 2 / 2))
+print( 9 / (5 - 2) + 6)
